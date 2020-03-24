@@ -1,0 +1,19 @@
+{
+  "name": "noder-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekhyajaddu/noder-server.git"
+  },
+  "author": "Alekhya Jaddu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekhyajaddu/noder-server/issues"
+  },
+  "homepage": "https://github.com/alekhyajaddu/noder-server#readme"
+}
